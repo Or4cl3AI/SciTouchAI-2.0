@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/SciTouchAI-2.0 is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Gunicorn](http://gunicorn.org/) – Web Servers
 - [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
@@ -13,11 +14,13 @@ Or4cl3AI/SciTouchAI-2.0 is built on the following main stack:
 - [migra](https://migra.djrobstep.com/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/SciTouchAI-2.0 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1091/gunicorn.png' alt='Gunicorn'/> [Gunicorn](http://gunicorn.org/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
@@ -29,14 +32,15 @@ Or4cl3AI/SciTouchAI-2.0 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='migra'/> [migra](https://migra.djrobstep.com/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/SciTouchAI-2.0](https://github.com/Or4cl3AI/SciTouchAI-2.0)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|11/24/23 <br/>Report generated|
+|31<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -160,26 +164,26 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Flask](https://pypi.org/Flask)|v1.1.2|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[bcrypt](https://pypi.org/bcrypt)|v3.2.0|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|v4.9.3|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[black](https://pypi.org/black)|N/A|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[coverage](https://pypi.org/coverage)|v5.3|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
-|[cryptography](https://pypi.org/cryptography)|v3.1.1|07/30/23|e2b-for-github[bot] |BSD-3-Clause,Apache-2.0|[CVE-2020-36242](https://github.com/advisories/GHSA-rhm9-p9w5-fwm7) (Critical)<br/>[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)|
-|[flake8](https://pypi.org/flake8)|v3.8.4|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[flask-marshmallow](https://pypi.org/flask-marshmallow)|v0.14.0|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[isort](https://pypi.org/isort)|v5.6.4|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[marshmallow-sqlalchemy](https://pypi.org/marshmallow-sqlalchemy)|v0.23.1|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[music21](https://pypi.org/music21)|N/A|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[mypy](https://pypi.org/mypy)|v0.790|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[nltk](https://pypi.org/nltk)|v3.5|07/30/23|e2b-for-github[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
-|[pandas](https://pypi.org/pandas)|v1.1.3|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[pre-commit](https://pypi.org/pre-commit)|v2.7.1|07/30/23|e2b-for-github[bot] |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|v0.15.0|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[requests](https://pypi.org/requests)|v2.24.0|07/30/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
-|[scikit-learn](https://pypi.org/scikit-learn)|v0.23.2|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[seaborn](https://pypi.org/seaborn)|v0.11.0|07/30/23|e2b-for-github[bot] |BSD-1-Clause|N/A|
-|[selenium](https://pypi.org/selenium)|v3.141.0|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
+|[Flask](https://pypi.org/project/Flask)|v1.1.2|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[bcrypt](https://pypi.org/project/bcrypt)|v3.2.0|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|v4.9.3|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[black](https://pypi.org/project/black)|N/A|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[coverage](https://pypi.org/project/coverage)|v5.3|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
+|[cryptography](https://pypi.org/project/cryptography)|v3.1.1|07/30/23|e2b-for-github[bot] |BSD-3-Clause,Apache-2.0|[CVE-2020-36242](https://github.com/advisories/GHSA-rhm9-p9w5-fwm7) (Critical)<br/>[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)|
+|[flake8](https://pypi.org/project/flake8)|v3.8.4|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[flask-marshmallow](https://pypi.org/project/flask-marshmallow)|v0.14.0|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[isort](https://pypi.org/project/isort)|v5.6.4|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[marshmallow-sqlalchemy](https://pypi.org/project/marshmallow-sqlalchemy)|v0.23.1|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[music21](https://pypi.org/project/music21)|N/A|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[mypy](https://pypi.org/project/mypy)|v0.790|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[nltk](https://pypi.org/project/nltk)|v3.5|07/30/23|e2b-for-github[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
+|[pandas](https://pypi.org/project/pandas)|v1.1.3|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[pre-commit](https://pypi.org/project/pre-commit)|v2.7.1|07/30/23|e2b-for-github[bot] |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v0.15.0|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[requests](https://pypi.org/project/requests)|v2.24.0|07/30/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.23.2|07/30/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[seaborn](https://pypi.org/project/seaborn)|v0.11.0|07/30/23|e2b-for-github[bot] |BSD-1-Clause|N/A|
+|[selenium](https://pypi.org/project/selenium)|v3.141.0|07/30/23|e2b-for-github[bot] |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
